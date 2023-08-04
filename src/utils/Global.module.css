@@ -1,0 +1,49 @@
+.tableAntDClass {
+  width: 70% !important;
+  margin: auto !important;
+}
+
+.addProductTable {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 600px;
+}
+
+.tableRowFav {
+  background-color: red;
+}
+
+.searchContainer {
+  display: flex;
+  gap: 10px;
+  width: 70% !important;
+  margin: auto !important;
+  padding: 10px;
+}
+
+.searchInput {
+  width: 100%;
+}
+
+.cardClass {
+  display: flex;
+}
+
+.formClass {
+  width: 100% !important;
+}
+.ant-card-body {
+  width: 100% !important;
+}
+
+.imageRowClass {
+  width: 200px;
+  object-fit: contain;
+  height: 250px;
+}
+
+.linkAddButton {
+  text-align: right;
+}
